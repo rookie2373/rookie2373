@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 # About Me
-### I’m Rushikesh. An ardent software developer an ArchLinux enthusiast. :india:
+### I’m Rushikesh. An ardent software developer, an ArchLinux enthusiast. :india:
 ### 🔭 I’m currently working on my data structure library.
 ### 🌱 Currently learning [Psychology on Productivity]() and [CMake](https://cmake.org/).
 ### 💬 Ask me about [Qt](qt.io) and C++.
@@ -36,7 +36,25 @@ Here are some ideas to get you started:
 </p>
 
 # I know :
-<!-- Shields.io -->
-<!-- <img src="https://img.shields.io/badge/JavaScript-00146E?style=for-the-badge&logo=javascript" alt="javascript" /> -->
+<div class="iknow" display="flex">
 
-<!-- <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632"> -->
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632" style="height:30px;" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express" style="height:30px;" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" style="height:30px;">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" style="height:30px;">
+
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="height:30px;">
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" style="height:30px;">
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&&logoColor=ffffff&color=F05032" style="height:30px;">
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" style="height:30px;">
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" style="height:30px;">
+<img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff" style="height:30px;">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square" style="height:30px;">
+
+<img src="" style="height:30px;">
+<img src="" style="height:30px;">
+<img src="" style="height:30px;">
+<img src="" style="height:30px;">
+<img src="" style="height:30px;">
+<img src="" style="height:30px;">
