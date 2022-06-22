@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 # About Me
 ### I’m Rushikesh. An ardent software developer, an ArchLinux enthusiast. :india:
 ### 🔭 I’m currently working on my data structures library.
-### 🌱 Currently learning [Psychology on Productivity]() and [CMake](https://cmake.org/).
-### 💬 Ask me about [Qt](qt.io) and C++.
-### 📫 Reach me at <a href="mailto:r4002001005025k@gmail.com?cc=kundkarrr19.comp@coep.ac.in&subject=Hii Ryuzaki"> r4002001005025k@gmail.com</a>.
-### ⚡ Fun fact: I use [archcraft](archcraft.io).
+### 🌱 Currently learning [Psychology on Productivity](https://seeken.org/productive-in-your-life/) and [CMake](https://cmake.org/).
+### 💬 Ask me about [Qt](https://www.qt.io/) and [C++](https://en.cppreference.com/w/).
+### 📫 Reach me at <a href="mailto:r4002001005025k@gmail.com?cc=kundkarrr19.comp@coep.ac.in&subject=Github connect&body=Hii Ryuzaki"> r4002001005025k@gmail.com</a>.
+### ⚡ Fun fact: I use [archcraft](https://archcraft.io/).
 <br>
 
 # Me on GitHub 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 # I can speak and talk fluently in
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RRkundkar777&theme=midnight-purple">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RRkundkar777&theme=midnight-purple" style="width:400px">
 </p>
 
 # Connect with me
@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ryuzaki26/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" style="height:30px"></a>
 <a href="mailto:r4002001005025k@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="height:30px"></a>
 <a href="https://gitlab.com/RRkundkar777"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" style="height:30px"></a>
-<a href=""> <img src="https://visitor-badge.laobi.icu/badge?page_id=RRkundkar777.RRkundkar777" style="height:30px"></a>
+<a href="https://www.npmjs.com/package/melody-api"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RRkundkar777.RRkundkar777" style="height:30px"></a>
 <br><br>
