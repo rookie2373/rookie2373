@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 # I can speak and talk fluently in
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RRkundkar777&theme=midnight-purple" style="width:400px">
+  <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api/top-langs/?username=RRkundkar777&theme=midnight-purple" style="width:400px">
 </p>
 
 # Connect with me
