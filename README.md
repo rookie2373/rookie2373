@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 # Me on GitHub 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=RRkundkar777&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
+  <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api?username=RRkundkar777&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 </p>
 
 # I know
