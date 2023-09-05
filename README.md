@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 </div>
 
 # About Me
-### I’m Rushikesh. An ardent software developer, an ArchLinux enthusiast. :india:
-### 🔭 I’m currently working on my data structures library.
-### 🌱 Currently learning [Psychology on Productivity](https://seeken.org/productive-in-your-life/) and [CMake](https://cmake.org/).
-### 💬 Ask me about [Qt](https://www.qt.io/) and [C++](https://en.cppreference.com/w/).
-### 📫 Reach me at <a href="mailto:r4002001005025k@gmail.com?cc=kundkarrr19.comp@coep.ac.in&subject=Github connect&body=Hii Ryuzaki"> r4002001005025k@gmail.com</a>.
-### ⚡ Fun fact: I use [archcraft](https://archcraft.io/).
+### I’m Rushikesh. An ardent software developer and an avid writer.
+### 🔭 I’m currently working on a website.
+### 🌱 Currently learning [Angular](https://angular.io/) and [Nebular](https://akveo.github.io/nebular/).
+### 💬 Ask me about [Angular](https://angular.io/) and [Java](https://docs.oracle.com/en/java/).
+### 📫 Reach me at <a href="mailto:r4002001005025k@gmail.com?cc=kundkarrr19.comp@coeptech.ac.in&subject=Github connect&body=Hii Ryuzaki"> r4002001005025k@gmail.com</a>.
+### ⚡ Note: I have migrated all my projects to [GitLab](https://gitlab.com/RRkundkar777/).
 <br>
 
 # Me on GitHub 
