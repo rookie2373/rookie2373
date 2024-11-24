@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working on a website.
 ### 🌱 Currently learning [Angular](https://angular.io/) and [Nebular](https://akveo.github.io/nebular/).
 ### 💬 Ask me about [Angular](https://angular.io/) and [Java](https://docs.oracle.com/en/java/).
-### 📫 Reach me at <a href="mailto:r4002001005025k@gmail.com?cc=kundkarrr19.comp@coeptech.ac.in&subject=Github connect&body=Hii Ryuzaki"> r4002001005025k@gmail.com</a>.
+### 📫 Reach me at <a href="mailto:rrkundkar777@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a>.
 <br>
 
 # Me on GitHub 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 # Connect with me
 <a href="https://github.com/RRkundkar777/"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" style="height:30px"></a>
 <a href="https://www.linkedin.com/in/rookie007/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" style="height:30px"></a>
-<a href="mailto:r4002001005025k@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="height:30px"></a>
+<a href="mailto:rrkundkar777@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="height:30px"></a>
 <a href="https://gitlab.com/RRkundkar777"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" style="height:30px"></a>
 <a href="https://www.npmjs.com/package/melody-api"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RRkundkar777.RRkundkar777" style="height:30px"></a>
 <br><br>
