@@ -69,4 +69,10 @@ Here are some ideas to get you started:
 
 ![Rookie's github stats](https://github-readme-stats.vercel.app/api?username=rookie2373&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[![Rookie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rookie2373&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rushikesh....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
