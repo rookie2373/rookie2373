@@ -76,3 +76,5 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rushikesh....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rookie2373&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
