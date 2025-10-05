@@ -66,3 +66,7 @@ Here are some ideas to get you started:
 <a href="https://www.npmjs.com/package/melody-api"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RRkundkar777.RRkundkar777" style="height:30px"></a>
 <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rookie2373&theme=onedark)](https://github.com/rookie2373/github-profile-trophy)
+
+![Rookie's github stats](https://github-readme-stats.vercel.app/api?username=rookie2373&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[![Rookie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rookie2373&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
