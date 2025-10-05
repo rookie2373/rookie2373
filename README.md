@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 <a href="https://gitlab.com/RRkundkar777"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" style="height:30px"></a>
 <a href="https://www.npmjs.com/package/melody-api"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RRkundkar777.RRkundkar777" style="height:30px"></a>
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rookie2373&theme=onedark)](https://github.com/rookie2373/github-profile-trophy)
