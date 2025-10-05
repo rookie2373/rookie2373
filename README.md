@@ -85,3 +85,10 @@ Here are some ideas to get you started:
   <a align="left" href="https://github.com/rookie2373/pypi" title="PyPI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rookie2373&repo=pypi&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/rookie2373/pypi" title="PyPI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rookie2373&repo=PyPI&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
+<hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
