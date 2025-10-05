@@ -65,3 +65,5 @@ Here are some ideas to get you started:
 <a href="https://gitlab.com/RRkundkar777"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" style="height:30px"></a>
 <a href="https://www.npmjs.com/package/melody-api"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RRkundkar777.RRkundkar777" style="height:30px"></a>
 <br><br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312n73ta2fbms6hw33oiqwuyz324&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312n73ta2fbms6hw33oiqwuyz324&redirect=true)
