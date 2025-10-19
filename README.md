@@ -85,7 +85,7 @@
 </p>
 
 <h2>Web Dev</h2>
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" style="height: 70px; width: 70px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" style="height: 70px; width: 70px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" style="height: 70px; width: 70px;" />
