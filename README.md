@@ -62,7 +62,7 @@
 
 <h2>Programming languages</h2>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" style="height: 70px; width: 70px;" />
 </p>
 
 <div class="iknow" display="flex">
