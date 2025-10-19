@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 
 </div>
 
-# About Me
-### I’m Rushikesh. An ardent software developer and an avid writer.
-### 🔭 I’m currently working on a website.
-### 🌱 Currently learning [Angular](https://angular.io/) and [Nebular](https://akveo.github.io/nebular/).
-### 💬 Ask me about [Angular](https://angular.io/) and [Java](https://docs.oracle.com/en/java/).
-### 📫 Reach me at <a href="mailto:rookie2373@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a>.
+<h1>About me</h1>
+
+<h3>I am a Software Engineer!</h3>
+<h3>🔭 I’m currently working on <a href="ttps://github.com/rookie2373/chatsky">Chatsky</a></h3>
+<h3>🌱 I'm Currently learning <a href="https://angular.dev">Angular</a> and <a href="https://spring.io">Spring</a>
+<h3>📫 Reach me at <a href="mailto:rrkundkar777@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a></h3>
 <br>
 
 # Me on GitHub 
