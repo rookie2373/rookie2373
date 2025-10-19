@@ -1,4 +1,4 @@
-[![Hi There!](https://readme-typing-svg.demolab.com/?lines=Hi+there!;I+am+Rushikesh;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Hi There!](https://readme-typing-svg.demolab.com/?lines=Hi+there!;I+am+Rushikesh;Nice+to+meet+you!&center=true&size=40)](https://git.io/typing-svg)
 
 <!--
 **rookie2373/rookie2373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
