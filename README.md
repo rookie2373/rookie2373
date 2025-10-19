@@ -102,6 +102,6 @@ Here are some ideas to get you started:
   <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rookie2373&theme=react&border=61dafb&hide_border=true" alt="rookie2373"/>
 </a>
 
-
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
