@@ -64,10 +64,9 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" style="height: 70px; width: 70px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png
-" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" style="height: 70px; width: 70px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" style="height: 70px; width: 70px;" />
 </p>
 
 <h2>Version control</h2>
@@ -80,114 +79,79 @@
 <h2>Editors and IDEs</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png
-" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png" style="height: 70px; width: 70px;" />
 </p>
 
 <h2>Web Dev</h2>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webpack.png
-" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webpack.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" style="height: 70px; width: 70px;" />
 </p>
 
 <h2>Java</h2>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/liquibase.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocikto.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png
-" style="height: 70px; width: 70px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tomcat.png
-" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/liquibase.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocikto.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tomcat.png" style="height: 70px; width: 70px;" />
 </p>
 
 <h2>Databases</h2>
 <p align="left">
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" style="height: 70px; width: 70px;" />
 </p>
 
-<h2>title2</h2>
+<h2>Operating Systems</h2>
 <p align="left">
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
-  <img src="" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" style="height: 70px; width: 70px;" />
+</p>
+
+<h2>Cloud platforms</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png" style="height: 70px; width: 70px;" />
+</p>
+
+<h2>CICD</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" style="height: 70px; width: 70px;" />
   <img src="" style="height: 70px; width: 70px;" />
   <img src="" style="height: 70px; width: 70px;" />
   <img src="" style="height: 70px; width: 70px;" />
   <img src="" style="height: 70px; width: 70px;" />
 </p>
 
-
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png
-
-
-
-
-
-<div class="iknow" display="flex">
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632" style="height:30px;" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express" style="height:30px;" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" style="height:30px;">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" style="height:30px;">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="height:30px;">
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" style="height:30px;">
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&&logoColor=ffffff&color=F05032" style="height:30px;">
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" style="height:30px;">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" style="height:30px;">
-  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff" style="height:30px;">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square" style="height:30px;">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-</div>
+<h2>Other</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" style="height: 70px; width: 70px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" style="height: 70px; width: 70px;" />
+</p>
 
 
 <h1>Connect with me</h1>
