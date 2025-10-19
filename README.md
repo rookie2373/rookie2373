@@ -1,7 +1,7 @@
 # Hi there <img src="./assets/wave-hello.gif" style="height:40px;width:40px"> 
 
 <!--
-**RRkundkar777/RRkundkar777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rookie2373/rookie2373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working on a website.
 ### 🌱 Currently learning [Angular](https://angular.io/) and [Nebular](https://akveo.github.io/nebular/).
 ### 💬 Ask me about [Angular](https://angular.io/) and [Java](https://docs.oracle.com/en/java/).
-### 📫 Reach me at <a href="mailto:rrkundkar777@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a>.
+### 📫 Reach me at <a href="mailto:rookie2373@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a>.
 <br>
 
 # Me on GitHub 
 <p align = "center">
-  <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api?username=RRkundkar777&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
+  <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api?username=rookie2373&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 </p>
 
 # I know
@@ -55,15 +55,15 @@ Here are some ideas to get you started:
 
 # I can speak and talk fluently in
 <p align = "center">
-  <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api/top-langs/?username=RRkundkar777&theme=midnight-purple" style="width:400px">
+  <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api/top-langs/?username=rookie2373&theme=midnight-purple" style="width:400px">
 </p>
 
 # Connect with me
-<a href="https://github.com/RRkundkar777/"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" style="height:30px"></a>
+<a href="https://github.com/rookie2373/"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" style="height:30px"></a>
 <a href="https://www.linkedin.com/in/rookie007/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" style="height:30px"></a>
-<a href="mailto:rrkundkar777@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="height:30px"></a>
-<a href="https://gitlab.com/RRkundkar777"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" style="height:30px"></a>
-<a href="https://www.npmjs.com/package/melody-api"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RRkundkar777.RRkundkar777" style="height:30px"></a>
+<a href="mailto:rookie2373@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="height:30px"></a>
+<a href="https://gitlab.com/rookie2373"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" style="height:30px"></a>
+<a href="https://www.npmjs.com/package/melody-api"> <img src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373" style="height:30px"></a>
 <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rookie2373&theme=onedark)](https://github.com/rookie2373/github-profile-trophy)
 
