@@ -60,6 +60,11 @@
 
 <h1>My Stack</h1>
 
+<h2>Programming languages</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
+</p>
+
 <div class="iknow" display="flex">
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632" style="height:30px;" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express" style="height:30px;" />
@@ -81,11 +86,9 @@
   <a href="https://www.linkedin.com/in/rookie007/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" style="height:30px">
   </a>
-
   <a href="mailto:rrkundkar777@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="height:30px">
   </a>
-
   <a href="https://github.com/rookie2373/">
     <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" style="height:30px">
   </a>
