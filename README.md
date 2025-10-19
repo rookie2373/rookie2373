@@ -27,11 +27,17 @@ Here are some ideas to get you started:
 
 <h1>About me</h1>
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/312n73ta2fbms6hw33oiqwuyz324)
+</div>
+
 <h3>💬 I am a Software Engineer!</h3>
 <h3>🔭 I’m currently working on <a href="https://github.com/rookie2373/chatsky">Chatsky</a></h3>
 <h3>🌱 I'm Currently learning <a href="https://angular.dev">Angular</a> and <a href="https://spring.io">Spring</a>
 <h3>📫 Reach me at <a href="mailto:rrkundkar777@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a></h3>
-<br>
+
+<h1>Joke?</h1>
+
 
 # Me on GitHub 
 <p align = "center">
@@ -98,9 +104,7 @@ Here are some ideas to get you started:
 <hr>
 
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/312n73ta2fbms6hw33oiqwuyz324)
-</div>
+
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
   <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rookie2373&theme=react&border=61dafb&hide_border=true" alt="rookie2373"/>
