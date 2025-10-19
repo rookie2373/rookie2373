@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 <h3>📫 Reach me at <a href="mailto:rrkundkar777@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a></h3>
 
 <h1>Joke?</h1>
-
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
 
 # Me on GitHub 
 <p align = "center">
@@ -110,6 +112,5 @@ Here are some ideas to get you started:
   <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rookie2373&theme=react&border=61dafb&hide_border=true" alt="rookie2373"/>
 </a>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
