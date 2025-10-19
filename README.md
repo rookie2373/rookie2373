@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Rushikesh....;Nice+to+meet+you!&center=true&size=30">
@@ -82,7 +84,3 @@
 <a href="https://gitlab.com/rookie2373"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" style="height:30px"></a>
 <a href="https://www.npmjs.com/package/melody-api"> <img src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373" style="height:30px"></a>
 </p>
-
-
-<h1>Footfall</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373">
