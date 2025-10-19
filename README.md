@@ -4,21 +4,6 @@
   </a>
 </h1>
 
-<!--
-**rookie2373/rookie2373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 
   ![](./assets/death-note-l-death-note.gif)
@@ -36,10 +21,12 @@ Here are some ideas to get you started:
 <h3>🌱 I'm Currently learning <a href="https://angular.dev">Angular</a> and <a href="https://spring.io">Spring</a>
 <h3>📫 Reach me at <a href="mailto:rrkundkar777@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a></h3>
 
+
 <h1>Joke?</h1>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
+
 
 <h1>No? A quote then?</h1>
 <p align="center">
@@ -70,13 +57,14 @@ Here are some ideas to get you started:
 
 <h2>Streaks</h2>
 <p align="center">
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rookie2373&theme=react&border=61dafb&hide_border=true" alt="rookie2373"/>
-</a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rookie2373&theme=react&border=61dafb&hide_border=true" alt="rookie2373"/>
+  </a>
 </p>
 
 
-
+<br>
+<br>
 
 # I know
 <div class="iknow" display="flex">
