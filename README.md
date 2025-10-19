@@ -106,3 +106,5 @@ Here are some ideas to get you started:
 
 <img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
