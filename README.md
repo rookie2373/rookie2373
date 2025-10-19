@@ -78,9 +78,15 @@
 
 <h1>Connect with me</h1>
 <p align="center">
-<a href="https://github.com/rookie2373/"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" style="height:30px"></a>
-<a href="https://www.linkedin.com/in/rookie007/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" style="height:30px"></a>
-<a href="mailto:rookie2373@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="height:30px"></a>
-<a href="https://gitlab.com/rookie2373"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" style="height:30px"></a>
-<a href="https://www.npmjs.com/package/melody-api"> <img src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373" style="height:30px"></a>
+  <a href="https://www.linkedin.com/in/rookie007/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" style="height:30px">
+  </a>
+
+  <a href="mailto:rrkundkar777@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="height:30px">
+  </a>
+
+  <a href="https://github.com/rookie2373/">
+    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" style="height:30px">
+  </a>
 </p>
