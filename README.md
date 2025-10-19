@@ -46,10 +46,26 @@ Here are some ideas to get you started:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
-# Me on GitHub 
+<h1>My GitHub</h1>
+
 <p align = "center">
   <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api?username=rookie2373&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 </p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api/top-langs/?username=rookie2373&theme=midnight-purple" style="width:400px">
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rookie2373&theme=onedark)](https://github.com/rookie2373/github-profile-trophy)
+
+![Rookie's github stats](https://github-readme-stats.vercel.app/api?username=rookie2373&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rookie2373&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+  <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rookie2373&theme=react&border=61dafb&hide_border=true" alt="rookie2373"/>
+</a>
+
 
 # I know
 <div class="iknow" display="flex">
@@ -70,10 +86,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <br><br>
 
-# I can speak and talk fluently in
-<p align = "center">
-  <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api/top-langs/?username=rookie2373&theme=midnight-purple" style="width:400px">
-</p>
 
 # Connect with me
 <a href="https://github.com/rookie2373/"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" style="height:30px"></a>
@@ -82,19 +94,15 @@ Here are some ideas to get you started:
 <a href="https://gitlab.com/rookie2373"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" style="height:30px"></a>
 <a href="https://www.npmjs.com/package/melody-api"> <img src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373" style="height:30px"></a>
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=rookie2373&theme=onedark)](https://github.com/rookie2373/github-profile-trophy)
 
-![Rookie's github stats](https://github-readme-stats.vercel.app/api?username=rookie2373&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rushikesh....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rookie2373&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
@@ -103,17 +111,6 @@ Here are some ideas to get you started:
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-<hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-
-<hr>
 
 
 
-
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rookie2373&theme=react&border=61dafb&hide_border=true" alt="rookie2373"/>
-</a>
-
-
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
