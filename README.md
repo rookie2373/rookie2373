@@ -18,7 +18,7 @@
 
 <h3>💬 I am a Software Engineer!</h3>
 <h3>🔭 I’m currently working on <a href="https://github.com/rookie2373/chatsky">Chatsky</a></h3>
-<h3>🌱 I'm Currently learning <a href="https://angular.dev">Angular</a> and <a href="https://spring.io">Spring</a>
+<h3>🌱 I'm Currently learning <a href="https://angular.dev">Angular</a> and <a href="https://spring.io">Spring</a></h3>
 <h3>📫 Reach me at <a href="mailto:rrkundkar777@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a></h3>
 
 
