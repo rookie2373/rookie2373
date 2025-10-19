@@ -37,9 +37,14 @@ Here are some ideas to get you started:
 <h3>📫 Reach me at <a href="mailto:rrkundkar777@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a></h3>
 
 <h1>Joke?</h1>
-<div align="center" style="border:3px solid red">
+<p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
+</p>
+
+<h1>No? A quote then?</h1>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 
 # Me on GitHub 
 <p align = "center">
@@ -100,9 +105,7 @@ Here are some ideas to get you started:
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
+
 <hr>
 
 
