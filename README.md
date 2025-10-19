@@ -66,6 +66,14 @@ Here are some ideas to get you started:
   <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rookie2373&theme=react&border=61dafb&hide_border=true" alt="rookie2373"/>
 </a>
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/rookie2373/pypi" title="PyPI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rookie2373&repo=pypi&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/rookie2373/pypi" title="PyPI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rookie2373&repo=PyPI&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+
+
 
 # I know
 <div class="iknow" display="flex">
@@ -104,12 +112,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/rookie2373/pypi" title="PyPI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rookie2373&repo=pypi&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/rookie2373/pypi" title="PyPI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rookie2373&repo=PyPI&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+
 
 
 
