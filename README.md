@@ -48,29 +48,32 @@ Here are some ideas to get you started:
 
 <h1>My GitHub</h1>
 
+<h3>Stats</h3>
 <p align = "center">
   <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api?username=rookie2373&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 </p>
 
+<h3>Top languages</h3>
 <p align = "center">
   <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api/top-langs/?username=rookie2373&theme=midnight-purple" style="width:400px">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rookie2373&theme=onedark)](https://github.com/rookie2373/github-profile-trophy)
+<h3>Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rookie2373&theme=onedark">
+</p>
 
-![Rookie's github stats](https://github-readme-stats.vercel.app/api?username=rookie2373&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+<h3>Contributions</h3>
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rookie2373&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
+<h3>Streaks</h3>
+<p align="center">
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
   <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rookie2373&theme=react&border=61dafb&hide_border=true" alt="rookie2373"/>
 </a>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/rookie2373/pypi" title="PyPI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rookie2373&repo=pypi&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/rookie2373/pypi" title="PyPI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rookie2373&repo=PyPI&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+</p>
 
 
 
