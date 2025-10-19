@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <h3>📫 Reach me at <a href="mailto:rrkundkar777@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a></h3>
 
 <h1>Joke?</h1>
-<div align="center">
-  <img height="100px" width="200px" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<div align="center" border="3px solid red">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
 # Me on GitHub 
