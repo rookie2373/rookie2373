@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373" style="height:30px">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -21,7 +21,7 @@
 <h3>💬 I am a Software Engineer!</h3>
 <h3>🔭 I’m currently working on <a href="https://github.com/rookie2373/chatsky">Chatsky</a></h3>
 <h3>🌱 I'm Currently learning <a href="https://angular.dev">Angular</a> and <a href="https://spring.io">Spring</a></h3>
-<h3>📫 Reach me at <a href="mailto:rrkundkar777@gmail.com?subject=Github connect&body=Hii Rookie">Mail</a></h3>
+<h3>📫 Reach me at <a href="mailto:rrkundkar777@gmail.com?subject=Github connect&body=Hii Rookie">Rushikesh's email</a></h3>
 
 
 <h1>Joke?</h1>
@@ -54,7 +54,7 @@
 
 <h2>Contributions</h2>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rookie2373&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rookie2373&bg_color=2c3e50&color=41b883&line=41b883&point=f6f8fa&area=true&hide_border=true" width="100%"/>
 </p>
 
 
