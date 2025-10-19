@@ -1,4 +1,4 @@
-# Hi there <img src="./assets/wave-hello.gif" style="height:40px;width:40px"> 
+[![Hi There!](https://readme-typing-svg.demolab.com/?lines=Hi+there!;I+am+Rushikesh;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <!--
 **rookie2373/rookie2373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -105,6 +105,3 @@ Here are some ideas to get you started:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
