@@ -62,49 +62,33 @@
   </a>
 </p>
 
+<h1>My Stack</h1>
 
-<br>
-<br>
-
-# I know
 <div class="iknow" display="flex">
-
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632" style="height:30px;" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express" style="height:30px;" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" style="height:30px;">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" style="height:30px;">
-<br>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="height:30px;">
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" style="height:30px;">
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&&logoColor=ffffff&color=F05032" style="height:30px;">
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" style="height:30px;">
-<br>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" style="height:30px;">
-<img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff" style="height:30px;">
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square" style="height:30px;">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<br><br>
+  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632" style="height:30px;" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express" style="height:30px;" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" style="height:30px;">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" style="height:30px;">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="height:30px;">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" style="height:30px;">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&&logoColor=ffffff&color=F05032" style="height:30px;">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" style="height:30px;">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" style="height:30px;">
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff" style="height:30px;">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square" style="height:30px;">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+</div>
 
 
-# Connect with me
+<h1>Connect with me</h1>
+<p align="center">
 <a href="https://github.com/rookie2373/"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" style="height:30px"></a>
 <a href="https://www.linkedin.com/in/rookie007/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" style="height:30px"></a>
 <a href="mailto:rookie2373@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="height:30px"></a>
 <a href="https://gitlab.com/rookie2373"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" style="height:30px"></a>
 <a href="https://www.npmjs.com/package/melody-api"> <img src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373" style="height:30px"></a>
-<br><br>
+</p>
 
 
-
-
+<h1>Footfall</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rookie2373.rookie2373">
-
-
-
-
-
-
-
-
-
-
