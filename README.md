@@ -104,4 +104,5 @@ Here are some ideas to get you started:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
