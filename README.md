@@ -48,27 +48,27 @@ Here are some ideas to get you started:
 
 <h1>My GitHub</h1>
 
-<h3>Stats</h3>
+<h2>Stats</h2>
 <p align = "center">
   <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api?username=rookie2373&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 </p>
 
-<h3>Top languages</h3>
+<h2>Top languages</h2>
 <p align = "center">
   <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api/top-langs/?username=rookie2373&theme=midnight-purple" style="width:400px">
 </p>
 
-<h3>Trophies</h3>
+<h2>Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rookie2373&theme=onedark">
 </p>
 
-<h3>Contributions</h3>
+<h2>Contributions</h2>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rookie2373&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<h3>Streaks</h3>
+<h2>Streaks</h2>
 <p align="center">
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
   <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rookie2373&theme=react&border=61dafb&hide_border=true" alt="rookie2373"/>
