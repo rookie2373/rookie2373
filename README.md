@@ -97,3 +97,11 @@ Here are some ideas to get you started:
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/312n73ta2fbms6hw33oiqwuyz324)
 </div>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+  <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rookie2373&theme=react&border=61dafb&hide_border=true" alt="rookie2373"/>
+</a>
+
+
+
+
