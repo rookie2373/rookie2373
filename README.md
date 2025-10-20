@@ -37,6 +37,11 @@
 
 <h1>My GitHub</h1>
 
+<h2>Worth</h2>
+<p align="center">
+  <img src="./assets/github-worth.png" alt="GitHub worth" />
+</p>
+
 <h2>Stats</h2>
 <p align = "center">
   <img src = "https://github-readme-stats-nine-rho-49.vercel.app/api?username=rookie2373&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
